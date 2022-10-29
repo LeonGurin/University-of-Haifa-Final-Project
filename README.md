@@ -8,7 +8,7 @@ ___
 # Monthly schedule
 Each month we will catalouge our progress on the project as a journal.
 
-* October 2022:
+*October 2022:
 
 This was the first month of the project in which we needed to find our footing and think what our project wanted to be.
 
