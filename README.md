@@ -8,7 +8,7 @@ ___
 # Monthly schedule
 Each month we will catalouge our progress on the project as a journal.
 
-*October 2022*
+## October 2022
 
 This was the first month of the project in which we needed to find our footing and think what our project wanted to be.
 
@@ -17,7 +17,7 @@ We knew we needed to approach an instructor to create a unique project. As the f
 Next we knew we needed to create a Github repository to keep organized and so we did.
 ___
 
-*November 2022*
+## November 2022
 
 ___
 
