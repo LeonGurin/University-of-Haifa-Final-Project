@@ -1,5 +1,6 @@
 # Final-Project
-* _By:_ Leon Gurin & Almog Ben Chen
+**_By:_ Leon Gurin & Almog Ben Chen**
+
 ___
 
 # What is the project about?
@@ -23,6 +24,7 @@ ___
 
 * needs to be deleted
 _template for tables - maybe helpful for later_
+
  | Challenge Name          | Points
  | --------------          | ------
  | Welcome | 1/1
