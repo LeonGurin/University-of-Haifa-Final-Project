@@ -13,19 +13,17 @@ Each month we will catalouge our progress on the project as a journal.
 
 This was the first month of the project in which we needed to find our footing and think what our project wanted to be.
 
-We knew we needed to approach an instructor to create a unique project. As the first candidate we tried contacting a few different university proffesors but to no avail until we found [insert name here] and after talking we got an outline of the project.
+We knew we needed to approach an instructor to create a unique project and so we starting our journey seeking different mentors, some did not do mentoring jobs, some ignored us and a few had topics we were not equipped to work on.
 
-Next we knew we needed to create a Github repository to keep organized and so we did.
 ___
 
 ## November 2022
 
-___
+After rigorous searching we approached Dr. Roei Poranne and he shared with us his different project ideas.
 
-* needs to be deleted
-_template for tables - maybe helpful for later_
+Although pretty much every project was interesting we had to pick only one to dedicate ourselves to and so we made decition table:
 
- | Challenge Name          | Points
- | --------------          | ------
- | Welcome | 1/1
+ | **Charactaristics** | Zipper | Architectural Room identification | Text to building | VR - Architecture modeling | VR - controlling robots | Redirected Walking | Geometric analysis 
+ | ---- | ---- | ---- | ---- | ---- | ---- | ---- | 
+ | Cool final product x% | ... | ... |  ... |  ... |  ... |  ... |  ... | 
 
