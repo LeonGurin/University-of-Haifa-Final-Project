@@ -25,9 +25,9 @@ Although pretty much every project was interesting we had to pick only one to de
 
 | Charactaristics | Zipper | Architectural Room identification | Text to building | VR - Architecture modeling | VR - controlling robots | Redirected Walking | Geometric analysis 
  | -------- | -------- | -------- | -------- | -------- | -------- | -------- | -------- |
- | 1. Cool final product 15% | xxx | xxx | xxx | xxx | xxx | xxx | xxx | 
- | 2. Workflow 15% | xxx | xxx | xxx | xxx | xxx | xxx | xxx | 
- | 3. Practical knowledge 5% | xxx | xxx | xxx | xxx | xxx | xxx | xxx | 
- | 4. Complexity 20% | xxx | xxx | xxx | xxx | xxx | xxx | xxx | 
- | 5. Personal interest 35% | xxx | xxx | xxx | xxx | xxx | xxx | xxx | 
- | 6. Work experience 10% | xxx | xxx | xxx | xxx | xxx | xxx | xxx | 
+ | 1. Cool final product 15% | 90->13.5 | 80->12 | 90->13.5 | 75->11.25 | 65->9.75 | 50->7.5 | xxx | 
+ | 2. Workflow 15%           | xxx | xxx | xxx | xxx | xxx | xxx | xxx | 
+ | 3. Practical knowledge 5% | 60 | 85 | xxx | xxx | xxx | xxx | xxx | 
+ | 4. Complexity 20%         | 85 | 70 | xxx | xxx | xxx | xxx | xxx | 
+ | 5. Personal interest 35%  | 90 | 85 | xxx | xxx | xxx | xxx | xxx | 
+ | 6. Work experience 10%    | xxx | xxx | xxx | xxx | xxx | xxx | xxx | 
