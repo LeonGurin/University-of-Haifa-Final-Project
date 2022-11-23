@@ -27,8 +27,8 @@ Although pretty much every project was interesting we had to pick only one to de
  | -------- | -------- | -------- | -------- | -------- | -------- | -------- | -------- |
  | 1. Cool final product 15% | 90->13.5 | 80->12 | 90->13.5 | 75->11.25 | 65->9.75 | 50->7.5 | xxx | 
  | 2. Workflow 15%           | xxx      | xxx    | xxx      | xxx       | xxx      | xxx     | xxx | 
- | 3. Practical knowledge 5% | 60       | 85     | xxx      | xxx       | xxx      | xxx     | xxx | 
- | 4. Complexity 20%         | 85       | 70     | xxx      | xxx       | xxx      | xxx     | xxx | 
- | 5. Personal interest 35%  | 90       | 85     | xxx      | xxx       | xxx      | xxx     | xxx | 
+ | 3. Practical knowledge 5% | 60       | 85     | 95       | 70        | 70       | 70      | xxx | 
+ | 4. Complexity 20%         | 85       | 70     | 70       | 75        | 80       | 75      | xxx | 
+ | 5. Personal interest 35%  | 90       | 85     | 85       | 80        | 85       | 70      | xxx | 
  | 6. Work experience 10%    | xxx      | xxx    | xxx      | xxx       | xxx      | xxx     | xxx | 
  | Final Score:              | xxx      | xxx    | xxx      | xxx       | xxx      | xxx     | xxx |
