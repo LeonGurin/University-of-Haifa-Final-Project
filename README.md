@@ -27,11 +27,11 @@ Although pretty much every project was interesting we had to pick only one to de
 
 | Charactaristics | Zipper printing | Architectural Room identification | Text to building | VR - Architecture modeling | VR - controlling robots | Redirected Walking |
  | -------- | -------- | -------- | -------- | -------- | -------- | -------- | 
- | 1. Cool final product: **15%** | 90->13.5 | 80->12 | 90->13.5 | 75->11.25 | 65->9.75 | 50->7.5 |  
- | 2. Practical knowledge: **25%**| 60->15   | 85->21 | 95->24   | 70->22.5  | 70->22.5 | 70->22.5|  
- | 3. Complexity: **20%**         | 85->17   | 70->15 | 70->15   | 75->15    | 80->16   | 75->15  |  
- | 4. Personal interest: **40%**  | 90->45   | 85->38 | 85->38   | 75->30    | 80->32   | 70->28  |  
- | Final Score:                 | `90.5`     | 86     | `90.5`     | 79        | 80       | 73      |
+ | 1. Cool final product: **15%** | 90->13.5 | 80->12   | 90->13.5 | 75->11.25 | 65->9.75 | 50->7.5 |  
+ | 2. Practical knowledge: **25%**| 60->15   | 85->21.25| 95->24   | 70->22.5  | 70->17.5 | 70->17.5|  
+ | 3. Complexity: **20%**         | 85->17   | 70->14   | 70->14   | 75->15    | 80->16   | 75->15  |  
+ | 4. Personal interest: **40%**  | 90->36   | 85->34   | 85->34   | 75->30    | 80->32   | 70->28  |  
+ | Final Score:                   | 81.5     | 81.25    | `85.5`   | 78.75     | 75.25    | 68      |
 
 </center>
 
