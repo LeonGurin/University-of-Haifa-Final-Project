@@ -24,7 +24,7 @@ After rigorous searching we approached Dr. Roei Poranne and he shared with us hi
 Although pretty much every project was interesting we had to pick only one to dedicate ourselves to and so we made decition table:
 
 | Charactaristics | Zipper printing | Architectural Room identification | Text to building | VR - Architecture modeling | VR - controlling robots | Redirected Walking |
- | -------- | -------- | -------- | -------- | -------- | -------- | -------- | 
+ | :------: | :------: | :------: | :------: | :------: | :------: | :------: | 
  | 1. Cool final product: **15%** | 90->13.5 | 80->12   | 90->13.5 | 75->11.25 | 65->9.75 | 50->7.5 |  
  | 2. Practical knowledge: **25%**| 65->16.25| 85->21.25| 95->24   | 70->22.5  | 70->17.5 | 70->17.5|  
  | 3. Complexity: **20%**         | 85->17   | 70->14   | 70->14   | 75->15    | 80->16   | 75->15  |  
