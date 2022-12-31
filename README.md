@@ -39,7 +39,7 @@ After much consideration we decided against the `Text to building` project and w
 
 With our goals set we made a powerpoint, presented it and got the approval to continue.
 
-We proceeded with our project plans and read our mentors original paper that the project is based on: [https://people.inf.ethz.ch/poranner/papers/zippables/zippables.pdf](https://user-images.githubusercontent.com/77920085/210150151-24d7bc0c-3e92-4210-9922-216fbb28bedb.png)
+We proceeded with our project plans and read our mentors original paper that the project is based on: [https://people.inf.ethz.ch/poranner/papers/zippables/zippables.pdf](https://people.inf.ethz.ch/poranner/papers/zippables/zippables.pdf)
 
 Our mentor got access to the project repository of a newly published work about singularity prescribed parametrization by Yuta Noma which was published in the newest SIGGRAPH Asia 2022.
 
