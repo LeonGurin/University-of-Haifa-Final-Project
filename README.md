@@ -41,7 +41,7 @@ With our goals set we made a powerpoint, presented it and got the approval to co
 
 We proceeded with our project plans and read our mentors original paper that the project is based on: [https://people.inf.ethz.ch/poranner/papers/zippables/zippables.pdf](https://people.inf.ethz.ch/poranner/papers/zippables/zippables.pdf)
 
-Our mentor got access to the project repository of a newly published work about singularity prescribed parametrization by Yuta Noma which was published in the newest SIGGRAPH Asia 2022.
+Our mentor got access to the project repository of a newly published work about singularity prescribed parametrization by Yuta Noma which was published in the newest `SIGGRAPH Asia 2022`.
 
 After reading their paper: [https://drive.google.com/file/d/1UFDIff7Xa6qmWm69r03iYrnmCY7ztpdp/view?usp=sharing](https://drive.google.com/file/d/1UFDIff7Xa6qmWm69r03iYrnmCY7ztpdp/view?usp=sharing) we spend some time compiling and running their Github project on our respective machines (although we somehow could not run the project on a laptop... still remains to be solved).
 
