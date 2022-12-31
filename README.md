@@ -19,7 +19,7 @@ ___
 
 ## November 2022
 
-After rigorous searching we approached Dr. Roei Poranne and he shared with us his different project ideas.
+After rigorous searching we approached Dr. Roi Poranne and he shared with us his different project ideas.
 
 Although pretty much every project was interesting we had to pick only one to dedicate ourselves to and so we made decition table:
 
@@ -31,9 +31,32 @@ Although pretty much every project was interesting we had to pick only one to de
  | 4. Personal interest  | **40%**  | 90➡36   | 85➡34   | 85➡34   | 75➡30    | 80➡32   | 70➡28  |  
  |  Final Score          | **100%** | `82.75`  | 81.25    | `85.5`   | 78.75     | 75.25    | 68      |
 
+___
+
 ## December 2022
 
 After much consideration we decided against the `Text to building` project and we decided to pursue the `Zippables` project.
 
 With our goals set we made a powerpoint, presented it and got the approval to continue.
 
+We proceeded with our project plans and read our mentors original paper that the project is based on: [https://people.inf.ethz.ch/poranner/papers/zippables/zippables.pdf](https://user-images.githubusercontent.com/77920085/210150151-24d7bc0c-3e92-4210-9922-216fbb28bedb.png)
+
+Our mentor got access to the project repository of a newly published work about singularity prescribed parametrization by Yuta Noma which was published in the newest SIGGRAPH Asia 2022.
+
+After reading their paper: [https://drive.google.com/file/d/1UFDIff7Xa6qmWm69r03iYrnmCY7ztpdp/view?usp=sharing](https://drive.google.com/file/d/1UFDIff7Xa6qmWm69r03iYrnmCY7ztpdp/view?usp=sharing) we spend some time compiling and running their Github project on our respective machines (although we somehow could not run the project on a laptop... still remains to be solved).
+
+We started playing around and attempting to apply spiral parametrization algorithm as shown in paper, partially succeeding in setting vector field constraints, however we were not successful in creating a spiral.
+
+### 1. Vector field perpendicular to intervals set by user, computed using Yuta Noma's application
+
+![pic1]()
+
+### 2. Parametrization of said field, with bifurcations (which we wish to remove)
+
+![pic2]()
+
+___
+
+## January 2023
+
+ongoing...
