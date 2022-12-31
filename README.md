@@ -49,15 +49,11 @@ We started playing around and attempting to apply spiral parametrization algorit
 
 ### 1. Vector field perpendicular to intervals set by user, computed using Yuta Noma's application
 
-<p align="center">
-    ![pic1](https://github.com/LeonGurin/University-of-Haifa-Final-Project/blob/main/Progress%20Pictures/pic1.png)
-</p>
+![pic1](https://github.com/LeonGurin/University-of-Haifa-Final-Project/blob/main/Progress%20Pictures/pic1.png){: .center-image }
 
 ### 2. Parametrization of said field, with bifurcations (which we wish to remove)
 
-<p align="center">
-    ![pic2](https://github.com/LeonGurin/University-of-Haifa-Final-Project/blob/main/Progress%20Pictures/pic2.png)
-</p>
+![pic2](https://github.com/LeonGurin/University-of-Haifa-Final-Project/blob/main/Progress%20Pictures/pic2.png){: .center-image }
 
 ___
 
