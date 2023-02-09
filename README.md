@@ -77,8 +77,8 @@ The following are our results.
 ### Developabizing it
 
 <p float="left">
-  <img src="https://github.com/LeonGurin/University-of-Haifa-Final-Project/blob/main/Progress%20Pictures/developabized_bunny1.png" width="480"/>
-  <img src="https://github.com/LeonGurin/University-of-Haifa-Final-Project/blob/main/Progress%20Pictures/developabized_bunny2.png" width="480"/>
+  <img src="https://github.com/LeonGurin/University-of-Haifa-Final-Project/blob/main/Progress%20Pictures/developabized_bunny1.png" width="300"/>
+  <img src="https://github.com/LeonGurin/University-of-Haifa-Final-Project/blob/main/Progress%20Pictures/developabized_bunny2.png" width="300"/>
 </p>
   
 ### Hard coded flow positions parameterization
@@ -90,8 +90,8 @@ The following are our results.
 ### Default parameterization of the armadillo model and its developabization
 
 <p float="left">
-  <img src="https://github.com/LeonGurin/University-of-Haifa-Final-Project/blob/main/Progress%20Pictures/parametrized_armadillo2.png" width="480"/>
-  <img src="https://github.com/LeonGurin/University-of-Haifa-Final-Project/blob/main/Progress%20Pictures/developabized_armadillo1.png" width="480"/>
+  <img src="https://github.com/LeonGurin/University-of-Haifa-Final-Project/blob/main/Progress%20Pictures/parametrized_armadillo2.png" width="300"/>
+  <img src="https://github.com/LeonGurin/University-of-Haifa-Final-Project/blob/main/Progress%20Pictures/developabized_armadillo1.png" width="300"/>
 </p>
 
 
