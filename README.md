@@ -64,6 +64,8 @@ After a meeting with our mentor we realized we were working on the wrong branch,
 We studied the algorithm used by the codebase up close, and now better understand its steps and how to utilize and change it.
 
 With the correct version, we managed to achieve several spiral patterns and developable meshes using both changes to the code and the interactive GUI of the application.
+
+
 The following are our results.
 
 
