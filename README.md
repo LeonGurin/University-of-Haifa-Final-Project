@@ -2,10 +2,6 @@
 **_By:_ Leon Gurin & Almog Ben Chen**
 
 ___
-
-# What is the project about?
-
-___
 # Monthly schedule
 Each month we will catalouge our progress on the project as a journal.
 
@@ -63,4 +59,11 @@ ___
 
 ## January 2023
 
-ongoing...
+After a meeting with our mentor we realized we were working on the wrong branch, and promptly switched to the correct version.
+
+We studied the algorithm used by the codebase up close, and now better understand its steps and how to utilize and change it.
+
+With the correct version, we managed to achieve several spiral patterns and developable meshes using both changes to the code and the interactive GUI of the application.
+The following are our results.
+
+
