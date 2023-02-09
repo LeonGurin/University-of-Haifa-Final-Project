@@ -76,11 +76,11 @@ The following are our results.
   
 ### Developabizing it
 
-<div style="display: flex; justify-content: center;">
+<p float="left">
   <img src="https://github.com/LeonGurin/University-of-Haifa-Final-Project/blob/main/Progress%20Pictures/developabized_bunny1.png" width="300"/>
   <img src="https://github.com/LeonGurin/University-of-Haifa-Final-Project/blob/main/Progress%20Pictures/developabized_bunny2.png" width="300"/>
-</div>
-
+</p>
+  
 ### Hard coded flow positions parameterization
 
 <p align="center">
@@ -89,10 +89,10 @@ The following are our results.
 
 ### Default parameterization of the armadillo model and its developabization
 
-<div style="display: flex; justify-content: center;">
+<p float="left">
   <img src="https://github.com/LeonGurin/University-of-Haifa-Final-Project/blob/main/Progress%20Pictures/parametrized_armadillo2.png" width="300"/>
   <img src="https://github.com/LeonGurin/University-of-Haifa-Final-Project/blob/main/Progress%20Pictures/developabized_armadillo1.png" width="300"/>
-</div>
+</p>
 
 
 ___
