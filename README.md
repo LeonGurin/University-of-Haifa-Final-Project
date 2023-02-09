@@ -76,8 +76,8 @@ The following are our results.
   
 ### Developabizing it
 
-<p align="center">
-  <p float="left">
+<p float="left">
+  <p align="center">
     <img src="https://github.com/LeonGurin/University-of-Haifa-Final-Project/blob/main/Progress%20Pictures/developabized_bunny1.png" width="300"/>
     <img src="https://github.com/LeonGurin/University-of-Haifa-Final-Project/blob/main/Progress%20Pictures/developabized_bunny2.png" width="300"/>
   </p>
