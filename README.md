@@ -52,7 +52,7 @@ We started playing around and attempting to apply spiral parametrization algorit
 ### 2. Parametrization of said field, with bifurcations (which we wish to remove)
 
 <p align="center">
-  <img src="https://github.com/LeonGurin/University-of-Haifa-Final-Project/blob/main/Progress%20Pictures/pic2.png"/>
+  <img src="https://github.com/LeonGurin/University-of-Haifa-Final-Project/blob/main/Progress%20Pictures/pic2.png" width="480"/>
 </p>
 
 ___
@@ -71,27 +71,27 @@ The following are our results.
 ### Default parameterization of the bunny model
 
 <p align="center">
-  <img src="https://github.com/LeonGurin/University-of-Haifa-Final-Project/blob/main/Progress%20Pictures/parametrized_bunny1.png"/>
+  <img src="https://github.com/LeonGurin/University-of-Haifa-Final-Project/blob/main/Progress%20Pictures/parametrized_bunny1.png" width="480"/>
 </p>
   
 ### Developabizing it
 
 <p align="center">
-  <img src="https://github.com/LeonGurin/University-of-Haifa-Final-Project/blob/main/Progress%20Pictures/developabized_bunny1.png"/>
-  <img src="https://github.com/LeonGurin/University-of-Haifa-Final-Project/blob/main/Progress%20Pictures/developabized_bunny2.png"/>
+  <img src="https://github.com/LeonGurin/University-of-Haifa-Final-Project/blob/main/Progress%20Pictures/developabized_bunny1.png" width="480"/>
+  <img src="https://github.com/LeonGurin/University-of-Haifa-Final-Project/blob/main/Progress%20Pictures/developabized_bunny2.png" width="480"/>
 </p>
   
 ### Hard coded flow positions parameterization
 
 <p align="center">
-  <img src="https://github.com/LeonGurin/University-of-Haifa-Final-Project/blob/main/Progress%20Pictures/parametrized_armadillo1.png"/>
+  <img src="https://github.com/LeonGurin/University-of-Haifa-Final-Project/blob/main/Progress%20Pictures/parametrized_armadillo1.png" width="480"/>
 </p>
 
 ### Default parameterization of the armadillo model and its developabization
 
 <p align="center">
-  <img src="https://github.com/LeonGurin/University-of-Haifa-Final-Project/blob/main/Progress%20Pictures/parametrized_armadillo2.png"/>
-  <img src="https://github.com/LeonGurin/University-of-Haifa-Final-Project/blob/main/Progress%20Pictures/developabized_armadillo1.png"/>
+  <img src="https://github.com/LeonGurin/University-of-Haifa-Final-Project/blob/main/Progress%20Pictures/parametrized_armadillo2.png" width="480"/>
+  <img src="https://github.com/LeonGurin/University-of-Haifa-Final-Project/blob/main/Progress%20Pictures/developabized_armadillo1.png" width="480"/>
 </p>
 
 
