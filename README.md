@@ -78,9 +78,6 @@ The following are our results.
 
 <p align="center">
   <img src="https://github.com/LeonGurin/University-of-Haifa-Final-Project/blob/main/Progress%20Pictures/developabized_bunny1.png"/>
-</p>
-
-<p align="center">
   <img src="https://github.com/LeonGurin/University-of-Haifa-Final-Project/blob/main/Progress%20Pictures/developabized_bunny2.png"/>
 </p>
   
@@ -90,17 +87,13 @@ The following are our results.
   <img src="https://github.com/LeonGurin/University-of-Haifa-Final-Project/blob/main/Progress%20Pictures/parametrized_armadillo1.png"/>
 </p>
 
-### Default parameterization of the armadillo model
+### Default parameterization of the armadillo model and its developabization
 
 <p align="center">
   <img src="https://github.com/LeonGurin/University-of-Haifa-Final-Project/blob/main/Progress%20Pictures/parametrized_armadillo2.png"/>
-</p>
-
-### Developabizing it
-
-<p align="center">
   <img src="https://github.com/LeonGurin/University-of-Haifa-Final-Project/blob/main/Progress%20Pictures/developabized_armadillo1.png"/>
 </p>
+
 
 ___
 
