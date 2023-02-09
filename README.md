@@ -66,4 +66,43 @@ We studied the algorithm used by the codebase up close, and now better understan
 With the correct version, we managed to achieve several spiral patterns and developable meshes using both changes to the code and the interactive GUI of the application.
 The following are our results.
 
+### Default parameterization of the bunny model
+
+<p align="center">
+  <img src="https://github.com/LeonGurin/University-of-Haifa-Final-Project/blob/main/Progress%20Pictures/parametrized_bunny1.png"/>
+</p>
+  
+### Developabizing it
+
+<p align="center">
+  <img src="https://github.com/LeonGurin/University-of-Haifa-Final-Project/blob/main/Progress%20Pictures/developabized_bunny1.png"/>
+</p>
+
+<p align="center">
+  <img src="https://github.com/LeonGurin/University-of-Haifa-Final-Project/blob/main/Progress%20Pictures/developabized_bunny2.png"/>
+</p>
+  
+### Hard coded flow positions parameterization
+
+<p align="center">
+  <img src="https://github.com/LeonGurin/University-of-Haifa-Final-Project/blob/main/Progress%20Pictures/parametrized_armadillo1.png"/>
+</p>
+
+### Default parameterization of the armadillo model
+
+<p align="center">
+  <img src="https://github.com/LeonGurin/University-of-Haifa-Final-Project/blob/main/Progress%20Pictures/parametrized_armadillo2.png"/>
+</p>
+
+### Developabizing it
+
+<p align="center">
+  <img src="https://github.com/LeonGurin/University-of-Haifa-Final-Project/blob/main/Progress%20Pictures/developabized_armadillo1.png"/>
+</p>
+
+___
+
+## February 2023
+
+ongoing...
 
